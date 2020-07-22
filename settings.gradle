@@ -1,0 +1,3 @@
+include ':clip-textview'
+include ':app'
+rootProject.name = "ClipTextView-Demo"
